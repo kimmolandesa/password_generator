@@ -1,1 +1,1 @@
-A password generator with a password strenght checker. 
+A password generator that also gives the user the option to check how strong the passwords are.
